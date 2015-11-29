@@ -1,0 +1,29 @@
+  {
+  "name": "kilianpersonal",
+  "version": "0.0.1",
+  "description": "Eventually by HTML5 UP\r html5up.net | @n33co\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puck3000/kilian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puck3000/kilian/issues"
+  },
+  "homepage": "https://github.com/puck3000/kilian#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "dependencies": {
+    "rimraf":"2.2.8"
+  }
+}
